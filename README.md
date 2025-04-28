@@ -1,6 +1,8 @@
 # iFCon
 A tool for handling iFAction resource file (iFCon file)
 
+[![Build and Release](https://github.com/eWloYW8/iFCon/actions/workflows/release.yml/badge.svg)](https://github.com/eWloYW8/iFCon/actions/workflows/release.yml)
+
 ## Usage
 
 You can directly run iFCon.py or install this module with pip:
