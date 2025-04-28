@@ -1,2 +1,4 @@
 build
 iFCon.egg-info
+dist
+__pycache__
